@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: XML Parser<br>🌱 Currently learning: Angular, Python<br>⚡ Fun fact - my nickname is The Sniper
+🔭 Currently working on: Idea for Spring boot project<br>🌱 Currently learning: Angular, Spring boot<br>⚡ Fun fact - my nickname is The Sniper
 
 
 ## 🌐 Socials:
